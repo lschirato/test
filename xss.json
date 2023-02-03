@@ -1,1 +1,9 @@
-<math><mtext><h1><a><h6></a></h6><mglyph><svg><mtext><style><a title="</style><img src onerror='alert(1)'>"></style></h1>
+{
+    "url": "https://raw.githubusercontent.com/lschirato/test/main/xxs.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/lschirato/test/main/xxs.yaml",
+            "name": "Foo"
+        }
+    ]
+}
